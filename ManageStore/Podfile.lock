@@ -1,0 +1,20 @@
+PODS:
+  - RAMAnimatedTabBarController (5.1.0)
+  - ShadowView (1.4.3)
+
+DEPENDENCIES:
+  - RAMAnimatedTabBarController
+  - ShadowView
+
+SPEC REPOS:
+  trunk:
+    - RAMAnimatedTabBarController
+    - ShadowView
+
+SPEC CHECKSUMS:
+  RAMAnimatedTabBarController: b5c821298071fded801532216ad8a24394f89859
+  ShadowView: d2d92fd2706b3f6a182be2147149db0b1cf7700d
+
+PODFILE CHECKSUM: 29f2f19e54700846bbf8c22fcef46f52180f4812
+
+COCOAPODS: 1.8.4

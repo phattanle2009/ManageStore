@@ -1,0 +1,6 @@
+module Pods_ManageStore_ManageStoreUITests {
+  umbrella header "Pods-ManageStore-ManageStoreUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
