@@ -1,0 +1,16 @@
+Pods/
+/build/
+# Remove symlink if any
+Podfile.lock
+Gemfile.lock
+**/.DS_Store
+.DS_Store
+DerivedData/
+#xcode project conflict
+*.pbxproj merge=union
+.scannerwork/
+compile_commands.json
+sonar-reports/
+xcodebuild.log
+#build script
+output/
